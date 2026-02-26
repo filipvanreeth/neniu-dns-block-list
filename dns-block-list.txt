@@ -1,4 +1,3 @@
 # Neniu custom DNS block list
-||zenistitch.com^
-||myzenistitch.com^
-vrt.be
+zenistitch.com
+myzenistitch.com
